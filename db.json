@@ -9,6 +9,10 @@
           "image": "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
         },
         {
+          "name": "casuals",
+          "image": "https://images.unsplash.com/photo-1591549299905-a71d750df62d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
           "name": "t-shirts",
           "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
         },
@@ -19,10 +23,6 @@
         {
           "name": "jeans",
           "image": "https://images.unsplash.com/photo-1593620877307-39a5895e4adc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-        },
-        {
-          "name": "casuals",
-          "image": "https://images.unsplash.com/photo-1591549299905-a71d750df62d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
         },
         {
           "name": "sports",
